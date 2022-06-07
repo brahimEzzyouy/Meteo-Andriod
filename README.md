@@ -4,5 +4,5 @@ Simple application with android.studio/java
 
 ## Screens
 
-![](../Meteo/capture/cap1.png)
-![](../Meteo/capture/cap2.png)
+![](./capture/cap1.png)
+![](./capture/cap2.png)
