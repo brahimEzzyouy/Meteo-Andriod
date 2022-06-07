@@ -1,0 +1,11 @@
+com/example/weather/MeteoList.java
+ com.example.weather.MeteoList
+com/example/weather/BuildConfig.java
+ com.example.weather.BuildConfig
+com/example/weather/ListItemModel.java
+ com.example.weather.ListItemModel
+com/example/weather/MainActivity.java
+ com.example.weather.MainActivity
+ com.example.weather.MainActivity$1
+ com.example.weather.MainActivity$1$1
+ com.example.weather.MainActivity$1$2
